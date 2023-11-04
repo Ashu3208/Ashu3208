@@ -4,6 +4,21 @@
 - 🌱 I’m currently expanding my expertise on Cybersecurity.
 - 📫 How to reach me ashutosha21@iitk.ac.in
 - 🌟 Connect With me on Twitter [(https://twitter.com/ashutoshagr822)]
+
+### 📫 Feel Free to reach out to me here
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/ashuagr/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/priya.gole.399488/">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="ashutoshagrawal822@gmail.com">
+    <img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
+  </a>
+</div>
+
 ### :fire: Stats  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashu3208&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
