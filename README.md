@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ashuagr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/priya.gole.399488/">
+  <a href="https://www.twitter.com/ashutoshagr822/">
     <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="ashutoshagrawal822@gmail.com">
